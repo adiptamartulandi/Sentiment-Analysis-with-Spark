@@ -27,7 +27,7 @@
 - Bagi kalian yang belum install pyspark di laptop bisa datang ke situs ini:
   - https://bigdata-madesimple.com/guide-to-install-spark-and-use-pyspark-from-jupyter-in-windows/
 - Disini saya menggunakan 3 Algoritma yaitu Logistic Regression, Naive Bayes, dan Linear SVC.
-- Saya tidak menggunakan algoritma karena waktu ngerun sangat lama karena datanya terlalu besar.
+- Saya tidak menggunakan algoritma seperti Decision Tree, KNN, SVM, Random Forest karena waktu ngerun sangat lama karena datanya terlalu besar.
 - Untuk Feature Extraction Text saya menggunakan 2 metode yaitu CountVectorizer + IDF dan TF + IDF.
 - Hasilnya adalah model yang menggunakan Count Vectorizer + IDF + Logistic Regression memberikan nilai Akurasi dan AUC yang paling tinggi.
 - Nilai Akurasi Skor yang didapat adalah sebesar 79%.
